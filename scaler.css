@@ -1,0 +1,38 @@
+.hero-section {
+    background-image: url(https://assets-v2.scaler.com/assets/academy/svg/banner-background-34136d3a9ddff172e6bae6e3d8283c452231dcda2196b055bfa2e34e222754b7.svg);
+    padding: 90px 0;
+}
+.card {
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.card h5 {
+    font-weight: bold;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #000;
+    font-weight: 500;
+    padding: 0 15px;
+}
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #042a52;
+}
+
+.btn-outline-light {
+    color: #fff;
+    border-color: #fff;
+}
+
+.btn-outline-light:hover {
+    background-color: #fff;
+    color: #02112e;
+
+}
+
+#kumar{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+}
